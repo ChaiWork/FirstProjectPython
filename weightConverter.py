@@ -4,11 +4,6 @@ choic=input("Enter your choice")
 result=0
 
 
-
-
-
-
-
 if choic=='1':
     
     weightKg = float(input("Enter you Kg to convert in pound"))
