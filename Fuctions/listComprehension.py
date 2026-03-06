@@ -18,3 +18,13 @@ squares=[z*z for z in range(1,11)]
 print(doubles)
 print(triple)
 print(squares)
+
+
+numbers = [1,-2,3,-4,5,-6,8]
+positive_Numbers = [num for num in numbers if num>=0]
+negative_Numbers = [num for num in numbers if num<=0]
+even_nums = [num for num in numbers if num%2==0]
+
+print(positive_Numbers)
+print(negative_Numbers)
+print(even_nums)
