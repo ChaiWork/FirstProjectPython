@@ -4,8 +4,9 @@
 # resusable seperate files
 
 import math #use this
-#import math as m
+import math as m
 #from math import pi # could be name conflict very rare to use
 
 print(m.pi)
-print(pi)
+print(math.pi)
+
