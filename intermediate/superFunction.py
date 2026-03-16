@@ -1,0 +1,1 @@
+# super()= function used in child class to call methods from a parent class(Superclass)Allows you to extend the functionality of the inheritance method
